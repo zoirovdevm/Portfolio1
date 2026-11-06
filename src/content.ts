@@ -22,7 +22,7 @@ export const profile = {
     uz: "Veb-mahsulotlarni to'liq loyihalab, ishga tushiraman — ma'lumotlar bazasi sxemasi va API'dan tortib interfeys va deploygacha. TypeScript'da yozaman, toza arxitektura va real yuklamaga chidaydigan tizimlarni yaxshi ko'raman.",
     en: 'I design and ship web products end to end — from the database schema and API to the interface and deployment. I write TypeScript and care about clean architecture and systems that hold up under real load.',
   } as T,
-  location: { ru: 'Узбекистан · удалённо', uz: "O'zbekiston · masofaviy", en: 'Uzbekistan · remote' } as T,
+  location: { ru: 'Узбекистан · удалённо или релокация', uz: "O'zbekiston · masofaviy yoki relokatsiya", en: 'Uzbekistan · remote or relocation' } as T,
   available: { ru: 'Открыт к предложениям', uz: 'Takliflarga ochiqman', en: 'Open to offers' } as T,
 };
 
